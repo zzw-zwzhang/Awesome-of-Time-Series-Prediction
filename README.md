@@ -33,7 +33,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Type        | ``          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation |  |  |  |  |  |  | other types |
+| Explanation | Stock |  |  |  |  |  | other types |
 
 
 
@@ -82,11 +82,12 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+
 ### Previous Venues
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Deep Learning for Event-Driven Stock Prediction](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) | IJCAI | `S`     | [PyTorch(Author)](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning)   |  `152`  |
 
 
 
