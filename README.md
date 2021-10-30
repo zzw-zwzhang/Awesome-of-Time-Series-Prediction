@@ -102,7 +102,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Awesome Surveys
-- []()
+- [deep-finance: Deep Learning for Finance](https://github.com/sangyx/deep-finance)
 
 
 
