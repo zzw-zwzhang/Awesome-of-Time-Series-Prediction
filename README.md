@@ -65,7 +65,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183.pdf) | ACL | ``     | [PyTorch(Author)](https://github.com/yumoxu/stocknet-dataset)   |  `267`  |
+| [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183.pdf) | ACL | `S`     | [PyTorch(Author)](https://github.com/yumoxu/stocknet-dataset)   |  `267`  |
 
 
 
