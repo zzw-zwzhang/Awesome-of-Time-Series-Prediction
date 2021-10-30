@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Number-6-green)
 
-A curated list of ... and related resources.
+A curated list of time series prediction and related resources.
 
 Please feel free to pull requests or open an issue to add papers.
 
