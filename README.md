@@ -12,9 +12,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Table of Contents
 
-- [Time Series Prediction](#time-series-prediction)
+- [Type of Time Series Prediction](#type-oof-time-series-prediction)
 
-- [NAME](#NAME)
+- [Time Series Prediction](#time-series-prediction)
   - [2021 Venues](#2021)
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
