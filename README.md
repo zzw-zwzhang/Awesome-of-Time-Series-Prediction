@@ -31,7 +31,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Time Series Prediction
 
-| Type        | ``          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `S`          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Explanation | Stock |  |  |  |  |  | other types |
 
