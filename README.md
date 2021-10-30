@@ -41,7 +41,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction](https://www.ijcai.org/proceedings/2021/0508.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -104,6 +104,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Surveys
 - [deep-finance: Deep Learning for Finance](https://github.com/sangyx/deep-finance)
+- [DL4Stock](https://github.com/jwwthu/DL4Stock)
 
 
 
