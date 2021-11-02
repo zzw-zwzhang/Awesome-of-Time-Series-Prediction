@@ -107,7 +107,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Multivariate Time Series Imputation by Graph Neural Networks](https://arxiv.org/pdf/2108.00298.pdf) | 2021.09.23 | ``     | -   |  ``  |
 | [Artificial intelligence prediction of stock prices using social media](https://arxiv.org/pdf/2101.08986.pdf) | 2021.01.22 | ``     | -   |  ``  |
-| []() | 2020.08.10 | ``     | -   |  ``  |
+| [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport]() | 2021.01.25 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 
