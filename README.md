@@ -28,6 +28,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Awesome Blogs](#awesome-blogs)
 
+- [Awesome Datasets](#awesome-datasets)
+
 
 ### Type of Time Series Prediction
 
@@ -119,3 +121,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Blogs
 - []()
+
+
+## Awesome Datasets
+- [Top 5 Stock Market Datasets for Machine Learning](https://www.kaggle.com/learn-forum/167685)
