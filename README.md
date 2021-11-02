@@ -109,7 +109,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Artificial intelligence prediction of stock prices using social media](https://arxiv.org/pdf/2101.08986.pdf) | 2021.01.22 | ``     | -   |  ``  |
 | [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport]() | 2021.01.25 | ``     | -   |  ``  |
 | [Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Adaptive Refined Labeling](https://arxiv.org/pdf/2107.11972.pdf) | 2021.01.26 | ``     | -   |  ``  |
-| []() | 2020.08.10 | ``     | -   |  ``  |
+| [Stock price prediction using BERT and GAN](https://arxiv.org/pdf/2107.09055.pdf) | 2021.01.28 | ``     | -   |  ``  |
 
 
 ## Awesome Surveys
