@@ -101,7 +101,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | 2020.08.10 | ``     | -   |  ``  |
+| [Multivariate Time Series Imputation by Graph Neural Networks](https://arxiv.org/pdf/2108.00298.pdf) | 2021.09.23 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
