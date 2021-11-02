@@ -113,6 +113,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [DL4Stock](https://github.com/jwwthu/DL4Stock)
 - [https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary](Deep learning models for traffic prediction)
 - [Fusion in stock market prediction: A decade survey on the necessity, recent developments, and potential future directions](https://reader.elsevier.com/reader/sd/pii/S1566253520303481?token=C34A4FE9A3C52B54CA7A0B3D3EE29993944747A7C4AB5B82E75A9F994F84BB09B6582CE406BB0C72EE2173000EBE59B7&originRegion=us-east-1&originCreation=20211102032356), 2021 Information Fusion
+- [Applications of deep learning in stock market prediction: Recent progress](https://www.sciencedirect.com/science/article/abs/pii/S0957417421009441), 2021 ESA
 
 
 
