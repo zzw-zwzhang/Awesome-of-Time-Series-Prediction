@@ -30,6 +30,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Awesome Datasets](#awesome-datasets)
 
+- [Awesome Code](#awesome-code)
+
 
 ### Type of Time Series Prediction
 
@@ -126,3 +128,7 @@ Please feel free to pull requests or open an issue to add papers.
 ## Awesome Datasets
 - [Top 5 Stock Market Datasets for Machine Learning](https://www.kaggle.com/learn-forum/167685)
 - [Top 10 Stock Market Datasets for Machine Learning](https://imerit.net/blog/top-10-stock-market-datasets-for-machine-learning-all-pbm/)
+
+
+## Awesome Code
+- [Stock Prediction with Transformer (TensorFlow)](https://github.com/Stepka/Stock-Prediction-usning-Transformer-NN/blob/master/Stock_Prediction_usning_Transformer_NN.ipynb)
