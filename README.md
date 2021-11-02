@@ -127,7 +127,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Awesome Blogs
-- []()
+- [Stock predictions with state-of-the-art Transformer and Time Embeddings](https://towardsdatascience.com/stock-predictions-with-state-of-the-art-transformer-and-time-embeddings-3a4485237de6)
 
 
 ## Awesome Datasets
