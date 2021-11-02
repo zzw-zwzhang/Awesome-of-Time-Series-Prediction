@@ -43,7 +43,9 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction](https://www.ijcai.org/proceedings/2021/0508.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 | [Bayesian Temporal Factorization for Multidimensional Time Series Prediction](https://arxiv.org/pdf/1910.06366.pdf) | TPAMI | ``     | [PyTorch(Author)]()   |  ``  |
-
+| [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf) | ICLR | ``     | [PyTorch(Author)](https://github.com/chaoshangcs/GTS)   |  `67`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2020
@@ -51,7 +53,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) | EMNLP | `S`     | [PyTorch(Author)](https://github.com/midas-research/man-sf-emnlp)   |  `6`  |
-
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2019
@@ -67,7 +69,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183.pdf) | ACL | `S`     | [PyTorch(Author)](https://github.com/yumoxu/stocknet-dataset)   |  `267`  |
-
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2017
@@ -75,7 +77,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
-
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2016
@@ -83,12 +85,15 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+
 
 ### Previous Venues
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Deep Learning for Event-Driven Stock Prediction](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) | IJCAI | `S`     | [PyTorch(Author)](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning)   |  `152`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
