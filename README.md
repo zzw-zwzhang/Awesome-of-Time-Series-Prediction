@@ -106,7 +106,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Multivariate Time Series Imputation by Graph Neural Networks](https://arxiv.org/pdf/2108.00298.pdf) | 2021.09.23 | ``     | -   |  ``  |
-| []() | 2020.08.10 | ``     | -   |  ``  |
+| [Artificial intelligence prediction of stock prices using social media](https://arxiv.org/pdf/2101.08986.pdf) | 2021.01.22 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
