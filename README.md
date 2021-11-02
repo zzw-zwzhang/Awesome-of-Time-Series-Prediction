@@ -57,7 +57,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) | EMNLP | `S`     | [PyTorch(Author)](https://github.com/midas-research/man-sf-emnlp)   |  `6`  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Multi-Graph Convolutional Network for Relationship-Driven Stock Movement Prediction](https://arxiv.org/pdf/2005.04955.pdf) | ICPR | ``     | [PyTorch(Author)](https://github.com/start2020/Multi-GCGRU)   |  `4`  |
 
 
 ### 2019
