@@ -97,13 +97,13 @@ Please feel free to pull requests or open an issue to add papers.
 | [Temporal Attention-Augmented Bilinear Network for Financial Time-Series Data Analysis](https://arxiv.org/pdf/1712.00975.pdf) | TNNLS | ``     | [PyTorch(Author)](https://github.com/viebboy/TABL)   |  `24`  |
 | [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](http://www.sdspeople.fudan.edu.cn/zywei/paper/chen-cikm2018.pdf) | CIKM | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News]() | CIKM | `OD`     | [PyTorch(Author)]()   |  ``  |
+| [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://www.researchgate.net/publication/321604413_Listening_to_Chaotic_Whispers_A_Deep_Learning_Framework_for_News-oriented_Stock_Trend_Prediction) | WSDM | `OD`     | [PyTorch(Author)](https://github.com/donghyeonk/han)   |  `12`  |
 
 
 ### 2017
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
