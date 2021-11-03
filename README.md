@@ -90,7 +90,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Temporal Relational Ranking for Stock Prediction](https://arxiv.org/pdf/1809.09441.pdf) | ACM-TIS | `OD`     | [TensorFlow(Author)](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)   |  `176`  |
 | [A Novel Approach to Short-Term Stock Price Movement Prediction using Transfer Learning](https://www.mdpi.com/2076-3417/9/22/4745/htm) | AS | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News](https://arxiv.org/pdf/1912.10806.pdf) | NeurIPS | `OD`     | [PyTorch(Author)]()   |  ``  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Cogra: Concept-drift-aware Stochastic Gradient Descent for Time-series Forecasting](https://ojs.aaai.org//index.php/AAAI/article/view/4383) | AAAI | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
