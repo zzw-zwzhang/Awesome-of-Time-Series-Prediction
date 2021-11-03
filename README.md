@@ -66,8 +66,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+| [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction](https://songdj.github.io/publication/kdd-19-b/kdd-19-b.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
-
 
 
 ### 2018
