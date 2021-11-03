@@ -35,9 +35,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Time Series Prediction
 
-| Type        | `S`          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `S`          | `MS`           | ``                   | ``                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation | Stock |  |  |  |  |  | other types |
+| Explanation | Stock | Multi-Stock |  |  |  |  | other types |
 
 
 
@@ -66,7 +66,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction](https://songdj.github.io/publication/kdd-19-b/kdd-19-b.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
+| [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction](https://songdj.github.io/publication/kdd-19-b/kdd-19-b.pdf) | KDD | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/p2376-chen.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
 
 
