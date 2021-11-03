@@ -145,6 +145,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [Fusion in stock market prediction: A decade survey on the necessity, recent developments, and potential future directions](https://reader.elsevier.com/reader/sd/pii/S1566253520303481?token=C34A4FE9A3C52B54CA7A0B3D3EE29993944747A7C4AB5B82E75A9F994F84BB09B6582CE406BB0C72EE2173000EBE59B7&originRegion=us-east-1&originCreation=20211102032356), 2021 Information Fusion
 - [Applications of deep learning in stock market prediction: Recent progress](https://www.sciencedirect.com/science/article/abs/pii/S0957417421009441), 2021 ESA
 - [Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://arxiv.org/pdf/1911.13288.pdf), 2019 ASC
+- [Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y), 2017
 
 
 
