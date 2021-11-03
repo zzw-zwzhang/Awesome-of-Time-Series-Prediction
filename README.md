@@ -80,7 +80,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Transformer-Based Capsule Network For Stock Movements Prediction](https://aclanthology.org/W19-5511.pdf) | IJCAI-FinNLP | ``     | [PyTorch(Author)]()   |  ``  |
 | [Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network](https://aura.abdn.ac.uk/bitstream/handle/2164/12473/p678_deng.pdf;jsessionid=607F251CC0FA36201363178781DE3005?sequence=1) | WWW | `MD`     | [PyTorch(Author)]()   |  ``  |
 | [Enhancing Stock Movement Prediction with Adversarial Training](https://www.ijcai.org/proceedings/2019/0810.pdf) | IJCAI | ``     | [PyTorch(Author)](https://github.com/fulifeng/Adv-ALSTM)   |  `85`  |
-| []() | KDD | ``     | [PyTorch(Author)]()   |  ``  |
+| [CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets](https://www.ijcai.org/proceedings/2019/0514.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2018
