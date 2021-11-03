@@ -35,9 +35,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Time Series Prediction
 
-| Type        | `S`          | `MS`           | `Media-driven`                   | `Multi Modal`                 | ``                  | ``              | `Other`     |
+| Type        | `S`          | `MS`           | `Other-driven`                   | `Multi Modal`                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation | Stock | Multi-Stock | MD | MM |  |  | other types |
+| Explanation | Stock | Multi-Stock | OD | MM |  |  | other types |
 
 
 
@@ -49,7 +49,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Bayesian Temporal Factorization for Multidimensional Time Series Prediction](https://arxiv.org/pdf/1910.06366.pdf) | TPAMI | ``     | [PyTorch(Author)]()   |  ``  |
 | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf) | ICLR | ``     | [PyTorch(Author)](https://github.com/chaoshangcs/GTS)   |  `67`  |
 | [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/pdf/2109.04979.pdf) | ICML-W | ``     | [PyTorch(Author)]()   |  ``  |
-| [REST: Relational Event-driven Stock Trend Forecasting](https://arxiv.org/pdf/2102.07372.pdf) | WWW | `MS & MD`     | [PyTorch(Author)]()   |  ``  |
+| [REST: Relational Event-driven Stock Trend Forecasting](https://arxiv.org/pdf/2102.07372.pdf) | WWW | `MS & OD`     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
@@ -58,7 +58,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) | EMNLP | `S & MD`     | [PyTorch(Author)](https://github.com/midas-research/man-sf-emnlp)   |  `6`  |
-| [Multi-Graph Convolutional Network for Relationship-Driven Stock Movement Prediction](https://arxiv.org/pdf/2005.04955.pdf) | ICPR | `S & MD`     | [PyTorch(Author)](https://github.com/start2020/Multi-GCGRU)   |  `4`  |
+| [Multi-Graph Convolutional Network for Relationship-Driven Stock Movement Prediction](https://arxiv.org/pdf/2005.04955.pdf) | ICPR | `OD`     | [PyTorch(Author)](https://github.com/start2020/Multi-GCGRU)   |  `4`  |
 | [Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0640.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 | [Multi-scale Two-way Deep Neural Network for Stock Trend Prediction](https://www.ijcai.org/proceedings/2020/0628.pdf) | IJCAI-FinTech | ``     | [PyTorch(Author)](https://github.com/marscrazy/MTDNN)   |  `30`  |
 | [Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0626.pdf) | IJCAI-FinTech | `MS`     | [PyTorch(Author)](https://github.com/liweitj47/overnight-stock-movement-prediction)   |  `17`  |
@@ -77,7 +77,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/p2376-chen.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
 | [Individualized Indicator for All: Stock-wise Technical Indicator Optimization with Stock Embedding](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/p894-li.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
 | [Transformer-Based Capsule Network For Stock Movements Prediction](https://aclanthology.org/W19-5511.pdf) | IJCAI-FinNLP | ``     | [PyTorch(Author)]()   |  ``  |
-| [Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network](https://aura.abdn.ac.uk/bitstream/handle/2164/12473/p678_deng.pdf;jsessionid=607F251CC0FA36201363178781DE3005?sequence=1) | WWW | `MD`     | [PyTorch(Author)]()   |  ``  |
+| [Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network](https://aura.abdn.ac.uk/bitstream/handle/2164/12473/p678_deng.pdf;jsessionid=607F251CC0FA36201363178781DE3005?sequence=1) | WWW | `OD`     | [PyTorch(Author)]()   |  ``  |
 | [Enhancing Stock Movement Prediction with Adversarial Training](https://www.ijcai.org/proceedings/2019/0810.pdf) | IJCAI | ``     | [PyTorch(Author)](https://github.com/fulifeng/Adv-ALSTM)   |  `85`  |
 | [CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets](https://www.ijcai.org/proceedings/2019/0514.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 | [What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues](https://aclanthology.org/P19-1038.pdf) | ACL | `MM`     | [PyTorch(Author)](https://github.com/GeminiLn/EarningsCall_Dataset)   |  `52`  |
@@ -89,7 +89,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183.pdf) | ACL | `MD`     | [PyTorch(Author)](https://github.com/yumoxu/stocknet-dataset)   |  `267`  |
+| [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183.pdf) | ACL | `OD`     | [PyTorch(Author)](https://github.com/yumoxu/stocknet-dataset)   |  `267`  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
@@ -115,7 +115,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Deep Learning for Event-Driven Stock Prediction](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) | IJCAI | `MD`     | [PyTorch(Author)](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning)   |  `152`  |
+| [Deep Learning for Event-Driven Stock Prediction](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) | IJCAI | `OD`     | [PyTorch(Author)](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning)   |  `152`  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
@@ -125,7 +125,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Multivariate Time Series Imputation by Graph Neural Networks](https://arxiv.org/pdf/2108.00298.pdf) | 2021.09.23 | `MS`     | -   |  ``  |
-| [Artificial intelligence prediction of stock prices using social media](https://arxiv.org/pdf/2101.08986.pdf) | 2021.01.22 | `MD`     | -   |  ``  |
+| [Artificial intelligence prediction of stock prices using social media](https://arxiv.org/pdf/2101.08986.pdf) | 2021.01.22 | `OD`     | -   |  ``  |
 | [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport]() | 2021.01.25 | `MS`     | -   |  ``  |
 | [Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Adaptive Refined Labeling](https://arxiv.org/pdf/2107.11972.pdf) | 2021.01.26 | ``     | -   |  ``  |
 | [Stock price prediction using BERT and GAN](https://arxiv.org/pdf/2107.09055.pdf) | 2021.01.28 | ``     | -   |  ``  |
