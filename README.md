@@ -103,7 +103,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](http://www.sdspeople.fudan.edu.cn/zywei/paper/chen-cikm2018.pdf) | CIKM | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News]() | CIKM | `OD`     | [PyTorch(Author)]()   |  ``  |
 | [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://www.researchgate.net/publication/321604413_Listening_to_Chaotic_Whispers_A_Deep_Learning_Framework_for_News-oriented_Stock_Trend_Prediction) | WSDM | `OD`     | [PyTorch(Author)](https://github.com/donghyeonk/han)   |  `12`  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [A Memory-Network Based Solution for Multivariate Time-Series Forecasting](https://arxiv.org/pdf/1809.02105.pdf) | AAAI | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2017
