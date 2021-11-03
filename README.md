@@ -35,9 +35,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Time Series Prediction
 
-| Type        | `S`          | `MS`           | `Media-driven`                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `S`          | `MS`           | `Media-driven`                   | `Multi Modal`                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation | Stock | Multi-Stock | MD |  |  |  | other types |
+| Explanation | Stock | Multi-Stock | MD | MM |  |  | other types |
 
 
 
@@ -50,7 +50,6 @@ Please feel free to pull requests or open an issue to add papers.
 | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf) | ICLR | ``     | [PyTorch(Author)](https://github.com/chaoshangcs/GTS)   |  `67`  |
 | [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/pdf/2109.04979.pdf) | ICML-W | ``     | [PyTorch(Author)]()   |  ``  |
 | [REST: Relational Event-driven Stock Trend Forecasting](https://arxiv.org/pdf/2102.07372.pdf) | WWW | `MS & MD`     | [PyTorch(Author)]()   |  ``  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
@@ -81,6 +80,9 @@ Please feel free to pull requests or open an issue to add papers.
 | [Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network](https://aura.abdn.ac.uk/bitstream/handle/2164/12473/p678_deng.pdf;jsessionid=607F251CC0FA36201363178781DE3005?sequence=1) | WWW | `MD`     | [PyTorch(Author)]()   |  ``  |
 | [Enhancing Stock Movement Prediction with Adversarial Training](https://www.ijcai.org/proceedings/2019/0810.pdf) | IJCAI | ``     | [PyTorch(Author)](https://github.com/fulifeng/Adv-ALSTM)   |  `85`  |
 | [CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets](https://www.ijcai.org/proceedings/2019/0514.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
+| [What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues](https://aclanthology.org/P19-1038.pdf) | ACL | `MM`     | [PyTorch(Author)](https://github.com/GeminiLn/EarningsCall_Dataset)   |  `52`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2018
