@@ -135,6 +135,9 @@ Please feel free to pull requests or open an issue to add papers.
 | [Stock price prediction using BERT and GAN](https://arxiv.org/pdf/2107.09055.pdf) | 2021.01.28 | ``     | -   |  ``  |
 | [HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction](https://arxiv.org/pdf/1908.07999.pdf) | 2019.11.12 | ``     | -   |  ``  |
 | [Online Multi-Agent Forecasting with Interpretable Collaborative Graph Neural Networks](https://arxiv.org/pdf/2107.00894.pdf) | 2021.07.02 | `Other`     | -   |  ``  |
+| [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://arxiv.org/pdf/2104.05522.pdf) | 2021.04.23 | `Other`     | -   |  ``  |
+| []() | 2021.01.28 | ``     | -   |  ``  |
+| []() | 2021.01.28 | ``     | -   |  ``  |
 | []() | 2021.01.28 | ``     | -   |  ``  |
 
 
