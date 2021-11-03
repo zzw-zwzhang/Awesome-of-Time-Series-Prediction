@@ -51,6 +51,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/pdf/2109.04979.pdf) | ICML-W | ``     | [PyTorch(Author)]()   |  ``  |
 | [REST: Relational Event-driven Stock Trend Forecasting](https://arxiv.org/pdf/2102.07372.pdf) | WWW | `MS & OD`     | [PyTorch(Author)]()   |  ``  |
 | [Financial time series forecasting with multi-modality graph neural network](https://www.sciencedirect.com/science/article/abs/pii/S003132032100399X) | PR | `MM`     | [PyTorch(Author)]()   |  ``  |
+| [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](http://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf) | ICML | ``     | [MexNet(Author)](https://github.com/rshyamsundar/gluonts-hierarchical-ICML-2021)   |  `9`  |
 
 
 ### 2020
@@ -85,7 +86,6 @@ Please feel free to pull requests or open an issue to add papers.
 | [Temporal Relational Ranking for Stock Prediction](https://arxiv.org/pdf/1809.09441.pdf) | ACM-TIS | `OD`     | [TensorFlow(Author)](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)   |  `176`  |
 | [A Novel Approach to Short-Term Stock Price Movement Prediction using Transfer Learning](https://www.mdpi.com/2076-3417/9/22/4745/htm) | AS | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News](https://arxiv.org/pdf/1912.10806.pdf) | NeurIPS | `OD`     | [PyTorch(Author)]()   |  ``  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
