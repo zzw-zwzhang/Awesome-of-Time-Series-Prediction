@@ -84,7 +84,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis](https://arxiv.org/pdf/1909.10660.pdf) | NeurIPS-W | ``     | [PyTorch(Author)]()   |  ``  |
 | [Temporal Relational Ranking for Stock Prediction](https://arxiv.org/pdf/1809.09441.pdf) | ACM-TIS | `OD`     | [PyTorch(Author)](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)   |  `176`  |
 | [A Novel Approach to Short-Term Stock Price Movement Prediction using Transfer Learning](https://www.mdpi.com/2076-3417/9/22/4745/htm) | AS | `MS`     | [PyTorch(Author)]()   |  ``  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News](https://arxiv.org/pdf/1912.10806.pdf) | NeurIPS | `OD`     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
