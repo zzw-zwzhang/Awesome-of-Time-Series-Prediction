@@ -111,7 +111,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Knowledge-Driven Event Embedding for Stock Prediction](https://aclanthology.org/C16-1201.pdf) | COLING | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
