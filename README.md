@@ -134,7 +134,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Adaptive Refined Labeling](https://arxiv.org/pdf/2107.11972.pdf) | 2021.01.26 | ``     | -   |  ``  |
 | [Stock price prediction using BERT and GAN](https://arxiv.org/pdf/2107.09055.pdf) | 2021.01.28 | ``     | -   |  ``  |
 | [HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction](https://arxiv.org/pdf/1908.07999.pdf) | 2019.11.12 | ``     | -   |  ``  |
-| []() | 2021.01.28 | ``     | -   |  ``  |
+| [Online Multi-Agent Forecasting with Interpretable Collaborative Graph Neural Networks](https://arxiv.org/pdf/2107.00894.pdf) | 2021.07.02 | `Other`     | -   |  ``  |
 | []() | 2021.01.28 | ``     | -   |  ``  |
 
 
