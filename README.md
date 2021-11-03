@@ -95,7 +95,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183.pdf) | ACL | `OD`     | [PyTorch(Author)](https://github.com/yumoxu/stocknet-dataset)   |  `267`  |
 | [Temporal Attention-Augmented Bilinear Network for Financial Time-Series Data Analysis](https://arxiv.org/pdf/1712.00975.pdf) | TNNLS | ``     | [PyTorch(Author)](https://github.com/viebboy/TABL)   |  `24`  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](http://www.sdspeople.fudan.edu.cn/zywei/paper/chen-cikm2018.pdf) | CIKM | `MS`     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
