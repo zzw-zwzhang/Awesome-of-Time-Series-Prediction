@@ -52,6 +52,10 @@ Please feel free to pull requests or open an issue to add papers.
 | [REST: Relational Event-driven Stock Trend Forecasting](https://arxiv.org/pdf/2102.07372.pdf) | WWW | `MS & OD`     | [PyTorch(Author)]()   |  ``  |
 | [Financial time series forecasting with multi-modality graph neural network](https://www.sciencedirect.com/science/article/abs/pii/S003132032100399X) | PR | `MM`     | [PyTorch(Author)]()   |  ``  |
 | [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](http://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf) | ICML | ``     | [MexNet(Author)](https://github.com/rshyamsundar/gluonts-hierarchical-ICML-2021)   |  `9`  |
+| [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) | AAAI-BestPaper | `Other`     | [PyTorch(Author)](https://github.com/tianhai123/informer)   |  `0`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+
+
 
 
 ### 2020
@@ -87,6 +91,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [A Novel Approach to Short-Term Stock Price Movement Prediction using Transfer Learning](https://www.mdpi.com/2076-3417/9/22/4745/htm) | AS | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News](https://arxiv.org/pdf/1912.10806.pdf) | NeurIPS | `OD`     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2018
@@ -98,6 +103,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](http://www.sdspeople.fudan.edu.cn/zywei/paper/chen-cikm2018.pdf) | CIKM | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News]() | CIKM | `OD`     | [PyTorch(Author)]()   |  ``  |
 | [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://www.researchgate.net/publication/321604413_Listening_to_Chaotic_Whispers_A_Deep_Learning_Framework_for_News-oriented_Stock_Trend_Prediction) | WSDM | `OD`     | [PyTorch(Author)](https://github.com/donghyeonk/han)   |  `12`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2017
@@ -106,6 +112,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/pdf/1704.02971.pdf) | IJCAI | ``     | [Keras(Author)](https://github.com/chensvm/A-Dual-Stage-Attention-Based-Recurrent-Neural-Network-for-Time-Series-Prediction)   |  `91`  |
 | [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) | KDD | ``     | [Keras(Author)](https://github.com/z331565360/State-Frequency-Memory-stock-prediction)   |  `54`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2016
