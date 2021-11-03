@@ -50,6 +50,8 @@ Please feel free to pull requests or open an issue to add papers.
 | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf) | ICLR | ``     | [PyTorch(Author)](https://github.com/chaoshangcs/GTS)   |  `67`  |
 | [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/pdf/2109.04979.pdf) | ICML-W | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2020
@@ -60,6 +62,9 @@ Please feel free to pull requests or open an issue to add papers.
 | [Multi-Graph Convolutional Network for Relationship-Driven Stock Movement Prediction](https://arxiv.org/pdf/2005.04955.pdf) | ICPR | ``     | [PyTorch(Author)](https://github.com/start2020/Multi-GCGRU)   |  `4`  |
 | [Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0640.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 | [Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction/blob/main/paper/2020%20WWW__Domain%20Adaptive%20Multi-Modality%20Neural%20Attention%20Network%20for%20Financial%20Forecasting.pdf) | WWW | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2019
@@ -68,6 +73,9 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction](https://songdj.github.io/publication/kdd-19-b/kdd-19-b.pdf) | KDD | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/p2376-chen.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
+| [Transformer-Based Capsule Network For Stock Movements Prediction](https://aclanthology.org/W19-5511.pdf) | IJCAI-FinNLP | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+
 
 
 ### 2018
@@ -75,6 +83,8 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183.pdf) | ACL | `S`     | [PyTorch(Author)](https://github.com/yumoxu/stocknet-dataset)   |  `267`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
