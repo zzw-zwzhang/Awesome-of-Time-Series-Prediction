@@ -141,6 +141,8 @@ Please feel free to pull requests or open an issue to add papers.
 - [Fintech Literature](https://github.com/ai-gamer/fintech-literature)
 - [Deep learning models for traffic prediction](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary)
 - [Fintech-Survey: Paper & Code & Dataset Collection](https://github.com/NickHan-cs/Fintech-Survey)
+- [FinNLP: Research sources for NLP in Finance](https://github.com/JLeeAI/FinNLP)
+
 
 - [Fusion in stock market prediction: A decade survey on the necessity, recent developments, and potential future directions](https://reader.elsevier.com/reader/sd/pii/S1566253520303481?token=C34A4FE9A3C52B54CA7A0B3D3EE29993944747A7C4AB5B82E75A9F994F84BB09B6582CE406BB0C72EE2173000EBE59B7&originRegion=us-east-1&originCreation=20211102032356), 2021 Information Fusion
 - [Applications of deep learning in stock market prediction: Recent progress](https://www.sciencedirect.com/science/article/abs/pii/S0957417421009441), 2021 ESA
