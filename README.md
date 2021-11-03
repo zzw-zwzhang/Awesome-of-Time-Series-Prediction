@@ -191,3 +191,4 @@ Please feel free to pull requests or open an issue to add papers.
 - [Stock Prediction with Transformer (TensorFlow)](https://github.com/Stepka/Stock-Prediction-usning-Transformer-NN/blob/master/Stock_Prediction_usning_Transformer_NN.ipynb)
 - [Transformer Time Series Prediction](https://github.com/oliverguhr/transformer-time-series-prediction)
 - [DeepSeries: Deep Learning Models for time series prediction](https://github.com/EvilPsyCHo/Deep-Time-Series-Prediction)
+- [Convolutional Recurrent Seq2seq GAN for the Imputation of Missing Values in Time Series Data](https://github.com/Tommy-Ngx/GAN_RNN_TS)
