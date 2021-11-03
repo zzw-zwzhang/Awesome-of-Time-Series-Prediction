@@ -143,6 +143,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [Fintech-Survey: Paper & Code & Dataset Collection](https://github.com/NickHan-cs/Fintech-Survey)
 - [FinNLP: Research sources for NLP in Finance](https://github.com/JLeeAI/FinNLP)
 - [Graph-models-in-finance-application](https://github.com/jackieD14/Graph-models-in-finance-application)
+- [GNN-finance: Curated list of Graph Neural Network Applications in Business and Finance](https://github.com/kyawlin/GNN-finance)
 
 
 ## Awesome Surveys
