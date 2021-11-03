@@ -76,6 +76,8 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction](https://songdj.github.io/publication/kdd-19-b/kdd-19-b.pdf) | KDD | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/p2376-chen.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
+| [Individualized Indicator for All: Stock-wise Technical Indicator Optimization with Stock Embedding](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/p894-li.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | KDD | ``     | [PyTorch(Author)]()   |  ``  |
 | [Transformer-Based Capsule Network For Stock Movements Prediction](https://aclanthology.org/W19-5511.pdf) | IJCAI-FinNLP | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
