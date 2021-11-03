@@ -7,7 +7,7 @@ A curated list of time series prediction and related resources.
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2021-10-30
+### :high_brightness: Updated 2021-11-03
 
 
 ## Table of Contents
