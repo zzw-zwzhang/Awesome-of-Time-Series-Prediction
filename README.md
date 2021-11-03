@@ -170,3 +170,4 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Code
 - [Stock Prediction with Transformer (TensorFlow)](https://github.com/Stepka/Stock-Prediction-usning-Transformer-NN/blob/master/Stock_Prediction_usning_Transformer_NN.ipynb)
+- [Transformer Time Series Prediction](https://github.com/oliverguhr/transformer-time-series-prediction)
