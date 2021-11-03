@@ -75,7 +75,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf) | AAAI | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series ](https://ojs.aaai.org/index.php/AAAI/article/view/5496) | AAAI | `MS`     | [PyTorch(Author)](https://github.com/DerronXu/DeepTrends)   |  `41`  |
 | [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://arxiv.org/pdf/2002.12135.pdf) | AAAI | `MS`     | [PyTorch(Author)](https://github.com/huawei-noah/BHT-ARIMA)   |  `63`  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/pdf/2005.11650.pdf) | KDD | `MS`     | [PyTorch(Author)](https://github.com/nnzhan/MTGNN)   |  `314`  |
 
 
 ### 2019
