@@ -81,7 +81,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Enhancing Stock Movement Prediction with Adversarial Training](https://www.ijcai.org/proceedings/2019/0810.pdf) | IJCAI | ``     | [PyTorch(Author)](https://github.com/fulifeng/Adv-ALSTM)   |  `85`  |
 | [CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets](https://www.ijcai.org/proceedings/2019/0514.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 | [What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues](https://aclanthology.org/P19-1038.pdf) | ACL | `MM`     | [PyTorch(Author)](https://github.com/GeminiLn/EarningsCall_Dataset)   |  `52`  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis](https://arxiv.org/pdf/1909.10660.pdf) | NeurIPS-W | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
