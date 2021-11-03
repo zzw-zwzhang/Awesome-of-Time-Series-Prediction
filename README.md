@@ -52,7 +52,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [REST: Relational Event-driven Stock Trend Forecasting](https://arxiv.org/pdf/2102.07372.pdf) | WWW | `MS & OD`     | [PyTorch(Author)]()   |  ``  |
 | [Financial time series forecasting with multi-modality graph neural network](https://www.sciencedirect.com/science/article/abs/pii/S003132032100399X) | PR | `MM`     | [PyTorch(Author)]()   |  ``  |
 | [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](http://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf) | ICML | ``     | [MexNet(Author)](https://github.com/rshyamsundar/gluonts-hierarchical-ICML-2021)   |  `9`  |
-| [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) | AAAI-BestPaper | `Other`     | [PyTorch(Author)](https://github.com/tianhai123/informer)   |  `0`  |
+| [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) | AAAI-BestPaper | `Other`     | [PyTorch(Author)](https://github.com/zhouhaoyi/Informer2020)   |  `1.8k`  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
