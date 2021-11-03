@@ -61,6 +61,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) | EMNLP | `S & MD`     | [PyTorch(Author)](https://github.com/midas-research/man-sf-emnlp)   |  `6`  |
 | [Multi-Graph Convolutional Network for Relationship-Driven Stock Movement Prediction](https://arxiv.org/pdf/2005.04955.pdf) | ICPR | `S & MD`     | [PyTorch(Author)](https://github.com/start2020/Multi-GCGRU)   |  `4`  |
 | [Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0640.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
+| [Multi-scale Two-way Deep Neural Network for Stock Trend Prediction](https://www.ijcai.org/proceedings/2020/0628.pdf) | IJCAI-FinTech | ``     | [PyTorch(Author)](https://github.com/marscrazy/MTDNN)   |  `30`  |
 | [Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction/blob/main/paper/2020%20WWW__Domain%20Adaptive%20Multi-Modality%20Neural%20Attention%20Network%20for%20Financial%20Forecasting.pdf) | WWW | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
