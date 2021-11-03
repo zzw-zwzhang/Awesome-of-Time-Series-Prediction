@@ -63,7 +63,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0640.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 | [Multi-scale Two-way Deep Neural Network for Stock Trend Prediction](https://www.ijcai.org/proceedings/2020/0628.pdf) | IJCAI-FinTech | ``     | [PyTorch(Author)](https://github.com/marscrazy/MTDNN)   |  `30`  |
 | [Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0626.pdf) | IJCAI-FinTech | `MS`     | [PyTorch(Author)](https://github.com/liweitj47/overnight-stock-movement-prediction)   |  `17`  |
-| []() | IJCAI-FinTech | ``     | [PyTorch(Author)]()   |  ``  |
+| [A Quantum-inspired Entropic Kernel for Multiple Financial Time Series Analysis](https://www.ijcai.org/proceedings/2020/0614.pdf) | IJCAI-FinTech | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction/blob/main/paper/2020%20WWW__Domain%20Adaptive%20Multi-Modality%20Neural%20Attention%20Network%20for%20Financial%20Forecasting.pdf) | WWW | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
