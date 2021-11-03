@@ -82,7 +82,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets](https://www.ijcai.org/proceedings/2019/0514.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 | [What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues](https://aclanthology.org/P19-1038.pdf) | ACL | `MM`     | [PyTorch(Author)](https://github.com/GeminiLn/EarningsCall_Dataset)   |  `52`  |
 | [Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis](https://arxiv.org/pdf/1909.10660.pdf) | NeurIPS-W | ``     | [PyTorch(Author)]()   |  ``  |
-| [Temporal Relational Ranking for Stock Prediction](https://arxiv.org/pdf/1809.09441.pdf) | ACM-TIS | `OD`     | [PyTorch(Author)](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)   |  `176`  |
+| [Temporal Relational Ranking for Stock Prediction](https://arxiv.org/pdf/1809.09441.pdf) | ACM-TIS | `OD`     | [TensorFlow(Author)](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)   |  `176`  |
 | [A Novel Approach to Short-Term Stock Price Movement Prediction using Transfer Learning](https://www.mdpi.com/2076-3417/9/22/4745/htm) | AS | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News](https://arxiv.org/pdf/1912.10806.pdf) | NeurIPS | `OD`     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
