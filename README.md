@@ -105,7 +105,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/pdf/1704.02971.pdf) | IJCAI | ``     | [Keras(Author)](https://github.com/chensvm/A-Dual-Stage-Attention-Based-Recurrent-Neural-Network-for-Time-Series-Prediction)   |  `91`  |
-| [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
+| [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) | KDD | ``     | [Keras(Author)](https://github.com/z331565360/State-Frequency-Memory-stock-prediction)   |  `54`  |
 
 
 ### 2016
