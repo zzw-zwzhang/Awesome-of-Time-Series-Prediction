@@ -74,6 +74,8 @@ Please feel free to pull requests or open an issue to add papers.
 | [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://arxiv.org/pdf/2103.07719.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/microsoft/StemGNN/)   |  `150`  |
 | [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf) | AAAI | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series ](https://ojs.aaai.org/index.php/AAAI/article/view/5496) | AAAI | `MS`     | [PyTorch(Author)](https://github.com/DerronXu/DeepTrends)   |  `41`  |
+| [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://arxiv.org/pdf/2002.12135.pdf) | AAAI | `MS`     | [PyTorch(Author)](https://github.com/huawei-noah/BHT-ARIMA)   |  `63`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2019
