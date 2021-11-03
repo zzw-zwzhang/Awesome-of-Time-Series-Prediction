@@ -47,7 +47,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction](https://www.ijcai.org/proceedings/2021/0508.pdf) | IJCAI | ``     | [PyTorch(Author)]()   |  ``  |
 | [Bayesian Temporal Factorization for Multidimensional Time Series Prediction](https://arxiv.org/pdf/1910.06366.pdf) | TPAMI | ``     | [PyTorch(Author)]()   |  ``  |
-| [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf) | ICLR | `MS`     | [PyTorch(Author)](https://github.com/chaoshangcs/GTS)   |  `67`  |
+| [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf) | ICLR | `Other`     | [PyTorch(Author)](https://github.com/chaoshangcs/GTS)   |  `67`  |
 | [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/pdf/2109.04979.pdf) | ICML-W | ``     | [PyTorch(Author)]()   |  ``  |
 | [REST: Relational Event-driven Stock Trend Forecasting](https://arxiv.org/pdf/2102.07372.pdf) | WWW | `MS & OD`     | [PyTorch(Author)]()   |  ``  |
 | [Financial time series forecasting with multi-modality graph neural network](https://www.sciencedirect.com/science/article/abs/pii/S003132032100399X) | PR | `MM`     | [PyTorch(Author)]()   |  ``  |
@@ -65,7 +65,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [A Quantum-inspired Entropic Kernel for Multiple Financial Time Series Analysis](https://www.ijcai.org/proceedings/2020/0614.pdf) | IJCAI-FinTech | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction/blob/main/paper/2020%20WWW__Domain%20Adaptive%20Multi-Modality%20Neural%20Attention%20Network%20for%20Financial%20Forecasting.pdf) | WWW | ``     | [PyTorch(Author)]()   |  ``  |
 | [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) | EMNLP | ``     | [PyTorch(3rd)](https://github.com/pigman0315/MAN-SF)   |  `0`  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://arxiv.org/pdf/2103.07719.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/microsoft/StemGNN/)   |  `150`  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
