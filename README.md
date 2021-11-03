@@ -54,7 +54,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](http://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf) | ICML | ``     | [MexNet(Author)](https://github.com/rshyamsundar/gluonts-hierarchical-ICML-2021)   |  `9`  |
 | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) | AAAI-Best | `Other`     | [PyTorch(Author)](https://github.com/zhouhaoyi/Informer2020)   |  `1.8k`  |
 | [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16077) | AAAI | `OD`     | [PyTorch(Author)](https://github.com/RuichengFIC/ADGAT)   |  `26`  |
-
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -72,7 +72,8 @@ Please feel free to pull requests or open an issue to add papers.
 | [HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=5211&context=eispapers1) | WWW | `OD`     | [PyTorch(Author)](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction)   |  `25`  |
 | [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) | EMNLP | ``     | [PyTorch(3rd)](https://github.com/pigman0315/MAN-SF)   |  `0`  |
 | [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://arxiv.org/pdf/2103.07719.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/microsoft/StemGNN/)   |  `150`  |
-| [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf) | AAAI | ``     | [PyTorch(Author)]()   |  ``  |
+| [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf) | AAAI | `MS`     | [PyTorch(Author)]()   |  ``  |
+| [Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series ](https://ojs.aaai.org/index.php/AAAI/article/view/5496) | AAAI | `MS`     | [PyTorch(Author)](https://github.com/DerronXu/DeepTrends)   |  `41`  |
 
 
 ### 2019
@@ -92,7 +93,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [A Novel Approach to Short-Term Stock Price Movement Prediction using Transfer Learning](https://www.mdpi.com/2076-3417/9/22/4745/htm) | AS | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News](https://arxiv.org/pdf/1912.10806.pdf) | NeurIPS | `OD`     | [PyTorch(Author)]()   |  ``  |
 | [Cogra: Concept-drift-aware Stochastic Gradient Descent for Time-series Forecasting](https://ojs.aaai.org//index.php/AAAI/article/view/4383) | AAAI | ``     | [PyTorch(Author)]()   |  ``  |
-
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2018
@@ -105,6 +106,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News]() | CIKM | `OD`     | [PyTorch(Author)]()   |  ``  |
 | [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://www.researchgate.net/publication/321604413_Listening_to_Chaotic_Whispers_A_Deep_Learning_Framework_for_News-oriented_Stock_Trend_Prediction) | WSDM | `OD`     | [PyTorch(Author)](https://github.com/donghyeonk/han)   |  `12`  |
 | [A Memory-Network Based Solution for Multivariate Time-Series Forecasting](https://arxiv.org/pdf/1809.02105.pdf) | AAAI | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2017
@@ -113,6 +115,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/pdf/1704.02971.pdf) | IJCAI | ``     | [Keras(Author)](https://github.com/chensvm/A-Dual-Stage-Attention-Based-Recurrent-Neural-Network-for-Time-Series-Prediction)   |  `91`  |
 | [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) | KDD | ``     | [Keras(Author)](https://github.com/z331565360/State-Frequency-Memory-stock-prediction)   |  `54`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
