@@ -64,7 +64,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0626.pdf) | IJCAI-FinTech | `MS`     | [PyTorch(Author)](https://github.com/liweitj47/overnight-stock-movement-prediction)   |  `17`  |
 | [A Quantum-inspired Entropic Kernel for Multiple Financial Time Series Analysis](https://www.ijcai.org/proceedings/2020/0614.pdf) | IJCAI-FinTech | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction/blob/main/paper/2020%20WWW__Domain%20Adaptive%20Multi-Modality%20Neural%20Attention%20Network%20for%20Financial%20Forecasting.pdf) | WWW | ``     | [PyTorch(Author)]()   |  ``  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) | EMNLP | ``     | [PyTorch(3-rd)](https://github.com/pigman0315/MAN-SF)   |  `0`  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
