@@ -120,7 +120,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Deep Learning for Event-Driven Stock Prediction](https://www.ijcai.org/Proceedings/15/Papers/329.pdf) | IJCAI | `OD`     | [PyTorch(Author)](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning)   |  `152`  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Using Structured Events to Predict Stock Price Movement: An Empirical Investigation](https://emnlp2014.org/papers/pdf/EMNLP2014148.pdf) | EMNLP | `OD`     | [PyTorch(Author)]()   |  ``  |
 
 
 
