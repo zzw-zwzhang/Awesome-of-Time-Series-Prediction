@@ -79,7 +79,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Individualized Indicator for All: Stock-wise Technical Indicator Optimization with Stock Embedding](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/p894-li.pdf) | KDD | ``     | [PyTorch(Author)]()   |  ``  |
 | [Transformer-Based Capsule Network For Stock Movements Prediction](https://aclanthology.org/W19-5511.pdf) | IJCAI-FinNLP | ``     | [PyTorch(Author)]()   |  ``  |
 | [Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network](https://aura.abdn.ac.uk/bitstream/handle/2164/12473/p678_deng.pdf;jsessionid=607F251CC0FA36201363178781DE3005?sequence=1) | WWW | `MD`     | [PyTorch(Author)]()   |  ``  |
-| []() | KDD | ``     | [PyTorch(Author)]()   |  ``  |
+| [Enhancing Stock Movement Prediction with Adversarial Training](https://www.ijcai.org/proceedings/2019/0810.pdf) | IJCAI | ``     | [PyTorch(Author)](https://github.com/fulifeng/Adv-ALSTM)   |  `85`  |
 | []() | KDD | ``     | [PyTorch(Author)]()   |  ``  |
 
 
