@@ -72,6 +72,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=5211&context=eispapers1) | WWW | `OD`     | [PyTorch(Author)](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction)   |  `25`  |
 | [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) | EMNLP | ``     | [PyTorch(3rd)](https://github.com/pigman0315/MAN-SF)   |  `0`  |
 | [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://arxiv.org/pdf/2103.07719.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/microsoft/StemGNN/)   |  `150`  |
+| [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf) | AAAI | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2019
@@ -91,7 +92,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [A Novel Approach to Short-Term Stock Price Movement Prediction using Transfer Learning](https://www.mdpi.com/2076-3417/9/22/4745/htm) | AS | `MS`     | [PyTorch(Author)]()   |  ``  |
 | [DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News](https://arxiv.org/pdf/1912.10806.pdf) | NeurIPS | `OD`     | [PyTorch(Author)]()   |  ``  |
 | [Cogra: Concept-drift-aware Stochastic Gradient Descent for Time-series Forecasting](https://ojs.aaai.org//index.php/AAAI/article/view/4383) | AAAI | ``     | [PyTorch(Author)]()   |  ``  |
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+
 
 
 ### 2018
