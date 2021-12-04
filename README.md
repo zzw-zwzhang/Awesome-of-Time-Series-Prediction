@@ -14,7 +14,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Type of Time Series Prediction](#type-oof-time-series-prediction)
 
-- [Transformer-based](#ransformer-based)
+- [Transformer-based](#transformer-based)
+
+- [Graph-based](#graph-based)
 
 - [Time Series Prediction](#time-series-prediction)
   - [2021 Venues](#2021)
@@ -43,6 +45,15 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ### Transformer-based
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+
+
+### Graph-based
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
