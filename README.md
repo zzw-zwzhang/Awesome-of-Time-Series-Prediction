@@ -14,9 +14,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Type of Time Series Prediction](#type-oof-time-series-prediction)
 
-- [Transformer-based](#transformer-based)
+- [Transformer-based Methods](#transformer-based)
 
-- [Graph-based](#graph-based)
+- [Graph-based Methods](#graph-based)
 
 - [Time Series Prediction](#time-series-prediction)
   - [2021 Venues](#2021)
@@ -44,7 +44,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Explanation | Stock | Multi-Stock | OD | MM |  |  | other types |
 
 
-### Transformer-based
+### Transformer-based Methods
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
@@ -53,7 +53,7 @@ Please feel free to pull requests or open an issue to add papers.
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
-### Graph-based
+### Graph-based Methods
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
